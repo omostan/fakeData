@@ -63,24 +63,6 @@
       "market_code": ["ES-CN-B1", "ES-ML-B", "ES-CM-C", "ES-CB-C", "ES-CM-B", "ES-AS-B1", "ES-VC-B", "ES-PV-BS", "ES-CM-B2", "ES-CN-C", "ES-IB-B", "ES-CE", "ES-RI", "ES-GA-C", "ES-NC-BR", "ES-CM", "ES-CB", "ES-VC", "ES-PV-B", "ES-AR-B1"],
       "description": "mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus",
       "market_use": 0
-    },
-    {
-      "login_name": "Floyd",
-      "group_name": "Landman",
-      "user_roles": ["INTERNALCOMMENT_VIEW", "DOCUMENTS_UPLOAD", "DATA_VIEW", "SUBMISSION_VIEW", "HARDWARE_VIEW", "DATA_ADD_APPROVAL", "HARDWARE_EDIT", "COSTS_VIEW", "DOCUMENTS_VIEW_EDITWINDOW", "RENOIDSUBMISSIONS_MULTIPROCESSING"],
-      "market_id": [133, 122, 86, 85, 96, 129, 98, 78, 111, 74, 91, 103, 79, 106, 90, 113, 84, 102, 82, 114],
-      "market_code": ["ES-CN-B", "ES", "ES-RI-B", "ES-CT-B", "ES-AR-B2", "ES-NC-BGM", "ES-AR-B1", "ES-MD", "ES-NC-BR", "ES-CL-E1", "ES-RI-C", "ES-MD-C", "ES-EX", "ES-CB-C", "ES-NC-BM", "ES-AS", "ES-CB-B", "ES-PV-B", "ES-CM", "ES-CN-B2"],
-      "description": "rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
-      "market_use": 0
-    },
-    {
-      "login_name": "Loutitia",
-      "group_name": "Copley",
-      "user_roles": ["GAMESELECTOR_TOOLTIP_VIEW", "INTERNALCOMMENT_VIEW", "SUBMISSION_EDIT", "DATA_VIEW", "HARDWARE_VIEW", "RENOIDSUBMISSIONS_MULTIPROCESSING", "DOCUMENTS_UPLOAD", "DOCUMENTS_DOWNLOAD", "DOCUMENTS_VIEW_EDITWINDOW", "SUBMISSION_VIEW_EDITWINDOW"],
-      "market_id": [85, 112, 82, 127, 299, 103, 88, 150, 99, 131, 101, 92, 73, 126, 139, 128, 152, 143, 144, 120],
-      "market_code": ["ES-NC-BS", "ES-MD-B2", "ES-CE-C", "ES-CB", "ES-GA-C", "ES-EX-B", "ES-CE", "ES-CL-B", "ES-ML", "ES-CN-B", "ES-PV-C", "ES-NC-B", "ES-NC-BM", "ES-CM-C", "ES-MD", "ES-RI-B2", "ES-CT-B", "ES-AS-B", "ES-RI-C", "ES-AN-C"],
-      "description": "augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed",
-      "market_use": 0
     }
   ]
 
